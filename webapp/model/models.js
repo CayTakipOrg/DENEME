@@ -13,6 +13,7 @@ sap.ui.define([
 			return oModel;
 		},
 
+
 		// Parameter Model
 		parameterModel: function() {
 			var sSelectParameters = "Name,Price,CurrencyCode,ImageUrl,IsFavoriteOfCurrentUser,StockQuantity";
