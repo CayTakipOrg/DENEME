@@ -8,4 +8,5 @@
 		 busy="{appView>/busy}"
 		 busyIndicatorDelay="{appView>/delay}"/>
 
+<!--Merhaba-->
 </mvc:View>
