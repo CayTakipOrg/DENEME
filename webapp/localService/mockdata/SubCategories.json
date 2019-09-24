@@ -1,0 +1,38 @@
+[
+	{
+		"Id": "Çaylar",
+		"Name": "Çaylar",
+		"MainCategoryId": "Sıcak İçecekler",
+		"MainCategoryName": "Sıcak İçecekler"
+	},
+	{
+		"Id": "Kahveler",
+		"Name": "Kahveler",
+		"MainCategoryId": "Sıcak İçecekler",
+		"MainCategoryName": "Sıcak İçecekler"
+	},
+	{
+		"Id": "Diğer Sıcak İçecekler",
+		"Name": "Sıcak İçecekler",
+		"MainCategoryId": "Sıcak İçecekler",
+		"MainCategoryName": "Sıcak İçecekler"
+	},
+	{
+		"Id": "Tostlar",
+		"Name": "Tostlar",
+		"MainCategoryId": "Yiyecekler",
+		"MainCategoryName": "Yiyecekler"
+	},
+	{
+		"Id": "Dondurmalar",
+		"Name": "Dondurmalar",
+		"MainCategoryId": "Yiyecekler",
+		"MainCategoryName": "Yiyecekler"
+	},
+	{
+		"Id": "Hamur İşi Çeşitler",
+		"Name": "Hamur İşi Çeşitler",
+		"MainCategoryId": "Yiyecekler",
+		"MainCategoryName": "Yiyecekler"
+	}
+]
