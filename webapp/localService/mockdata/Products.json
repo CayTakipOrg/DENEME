@@ -56,7 +56,7 @@
 		"WeightUnit": "kg"
 	},
 	{
-		"AverageRating": "2.93",
+		"AverageRating": "5",
 		"Name": "Çift Kaşarlı Tost",
 		"Description": "Yağsız çift kaşarlı tost. Özellikle güne güzel bir başlangıç için ideal.",
 		"StockQuantity": 150,
@@ -75,7 +75,7 @@
 		"MeasureUnit": "each",
 		"Price": "2.25",
 		"QuantityUnit": "EA",
-		"RatingCount": 15,
+		"RatingCount": 2,
 		"SubCategoryId": "Tostlar",
 		"SubCategoryName": "Tostlar",
 		"SupplierId": "100000002",
