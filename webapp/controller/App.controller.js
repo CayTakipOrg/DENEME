@@ -4,7 +4,7 @@ sap.ui.define([
 ], function(BaseController, JSONModel) {
 	"use strict";
 	
-	//control the app - tkaner
+	//control the app - tkaner - EED - push
 
 	return BaseController.extend("nw.epm.refapps.shop.controller.App", {
 
