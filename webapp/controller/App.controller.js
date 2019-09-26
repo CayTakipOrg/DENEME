@@ -3,6 +3,8 @@ sap.ui.define([
 	"sap/ui/model/json/JSONModel"
 ], function(BaseController, JSONModel) {
 	"use strict";
+	
+	//control the app - tkaner
 
 	return BaseController.extend("nw.epm.refapps.shop.controller.App", {
 

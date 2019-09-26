@@ -19,7 +19,7 @@
 		"IsReviewOfCurrentUser": false,
 		"ProductId": "HT-1000",
 		"Rating": 5,
-		"UserDisplayName": "Dagmar Schulze"
+		"UserDisplayName": "İlker"
 	},
 	{
 		"ChangedAt": "/Date(1428271200000)/",
@@ -30,7 +30,7 @@
 		"IsReviewOfCurrentUser": false,
 		"ProductId": "HT-1000",
 		"Rating": 1,
-		"UserDisplayName": "Maria Brown"
+		"UserDisplayName": "Tuna"
 	},
 	{
 		"ChangedAt": "/Date(1428876000000)/",
@@ -41,29 +41,29 @@
 		"IsReviewOfCurrentUser": false,
 		"ProductId": "HT-1001",
 		"Rating": 3,
-		"UserDisplayName": "Saskia Sommer"
+		"UserDisplayName": "Deniz"
 	},
 	{
 		"ChangedAt": "/Date(1429480800000)/",
-		"Comment": "Sade kahve istedim, şeker koymamışlar.",
+		"Comment": "Sade kahve istedim, şekerli geldi.",
 		"HelpfulCount": 16,
 		"HelpfulForCurrentUser": false,
 		"Id": "00505691-115B-1EE5-98EF-D8AB48B2EA78",
 		"IsReviewOfCurrentUser": false,
 		"ProductId": "HT-1001",
 		"Rating": 2,
-		"UserDisplayName": "Bob Buyer"
+		"UserDisplayName": "Seda"
 	},
 	{
 		"ChangedAt": "/Date(1430085600000)/",
-		"Comment": "Dibek bu mu oluyor?.",
+		"Comment": "Telvesiz kahve yapsalar keşke.",
 		"HelpfulCount": 21,
 		"HelpfulForCurrentUser": false,
 		"Id": "00505691-115B-1EE5-98EF-D8AB48B30A78",
 		"IsReviewOfCurrentUser": false,
 		"ProductId": "HT-1001",
 		"Rating": 1,
-		"UserDisplayName": "Bart Koenig"
+		"UserDisplayName": "Büşra"
 	},
 	{
 		"ChangedAt": "/Date(1430690400000)/",
@@ -96,7 +96,7 @@
 		"IsReviewOfCurrentUser": false,
 		"ProductId": "HT-1001",
 		"Rating": 3,
-		"UserDisplayName": "Victor Sanchez"
+		"UserDisplayName": "Özgür"
 	},
 	{
 		"ChangedAt": "/Date(1432504800000)/",
@@ -118,7 +118,7 @@
 		"IsReviewOfCurrentUser": false,
 		"ProductId": "HT-1002",
 		"Rating": 5,
-		"UserDisplayName": "Franklin Jones"
+		"UserDisplayName": "Tuna"
 	},
 	{
 		"ChangedAt": "/Date(1435096800000)/",
@@ -129,150 +129,7 @@
 		"IsReviewOfCurrentUser": false,
 		"ProductId": "HT-1002",
 		"Rating": 5,
-		"UserDisplayName": "Joseph Gschwandtner "
-	},
-	{
-		"ChangedAt": "/Date(1436392800000)/",
-		"Comment": "Abhorreant eloquentiam eam, vi.",
-		"HelpfulCount": 30,
-		"HelpfulForCurrentUser": false,
-		"Id": "00505691-115B-1EE5-98EF-D8AB48B3EA78",
-		"IsReviewOfCurrentUser": false,
-		"ProductId": "HT-1002",
-		"Rating": 1,
-		"UserDisplayName": "George Grant"
-	},
-	{
-		"ChangedAt": "/Date(1437688800000)/",
-		"Comment": "Mollis equidem liberavisse ius, in ius iudico eirmod option. Atqui errem clita eu ius. Tantas dictas id mei, ad pro commodo urbanitas. No consulatu theophrastus pri. Id eleifend evertitur vulputate duo, ex labores salutandi his. Null.",
-		"HelpfulCount": 24,
-		"HelpfulForCurrentUser": false,
-		"Id": "00505691-115B-1EE5-98EF-D8AB48B40A78",
-		"IsReviewOfCurrentUser": false,
-		"ProductId": "HT-1002",
-		"Rating": 3,
-		"UserDisplayName": "Sarah Schwind"
-	},
-	{
-		"ChangedAt": "/Date(1438984800000)/",
-		"Comment": "Amet, at vim laudem dolorem persecuti, qui qualisque deseruisse id, tempor dicunt rationibus et quo. Nam no essent aliquid, ne animal abhorreant eloquentiam eam, vis natum solet et. Te mollis equidem liberavisse ius, in ius iudico eirmod option. Atqui errem clita eu ius. Tantas dictas id mei, ad pro commodo urbanitas. No consulatu theophrastus pri. Id eleifend evertitur vulputate duo, ex labores salutandi his. Nulla elitr oratio ut usu, qui interesset necessitatibus ut. Se.",
-		"HelpfulCount": 35,
-		"HelpfulForCurrentUser": false,
-		"Id": "00505691-115B-1EE5-98EF-D8AB48B42A78",
-		"IsReviewOfCurrentUser": false,
-		"ProductId": "HT-1002",
-		"Rating": 3,
-		"UserDisplayName": "Theodor Monathy"
-	},
-	{
-		"ChangedAt": "/Date(1440280800000)/",
-		"Comment": "Iudico eirmod option. Atqu.",
-		"HelpfulCount": 27,
-		"HelpfulForCurrentUser": false,
-		"Id": "00505691-115B-1EE5-98EF-D8AB48B44A78",
-		"IsReviewOfCurrentUser": false,
-		"ProductId": "HT-1002",
-		"Rating": 5,
-		"UserDisplayName": "Robert Brown"
-	},
-	{
-		"ChangedAt": "/Date(1441576800000)/",
-		"Comment": "Vim laudem dolorem persecuti, qui qualisque deseruisse id, tempor dicunt rationibus et quo. Nam no essent aliquid, ne animal abhorreant eloquentiam eam, vis natum solet et. Te mollis equidem liberavisse ius, in ius iudico eirmod option.",
-		"HelpfulCount": 31,
-		"HelpfulForCurrentUser": false,
-		"Id": "00505691-115B-1EE5-98EF-D8AB48B46A78",
-		"IsReviewOfCurrentUser": false,
-		"ProductId": "HT-1002",
-		"Rating": 1,
-		"UserDisplayName": "Jorge Montalban"
-	},
-	{
-		"ChangedAt": "/Date(1442872800000)/",
-		"Comment": "Abhorreant eloquentiam eam, vis natum solet et. Te mollis equidem liberavisse ius, in ius iudico eirmod option. Atqui errem clita eu ius. Tantas dictas id mei, ad pro commodo urbanitas. No consulatu theophrastus pri. Id eleifend evertitur vulputate duo, ex labores salutandi his. Nulla elitr oratio ut usu, qui interesset necessitatibus ut. Sea cu deleniti indoctum persecuti, agam eligendi sit ei. An vis civibus offendit incorrupte, mel ne dicam corrumpit. An qui prompta aliquid.",
-		"HelpfulCount": 43,
-		"HelpfulForCurrentUser": false,
-		"Id": "00505691-115B-1EE5-98EF-D8AB48B48A78",
-		"IsReviewOfCurrentUser": false,
-		"ProductId": "HT-1002",
-		"Rating": 3,
-		"UserDisplayName": "Johanna Esther"
-	},
-	{
-		"ChangedAt": "/Date(1427583600000)/",
-		"Comment": "Et quo. Nam n.",
-		"HelpfulCount": 33,
-		"HelpfulForCurrentUser": false,
-		"Id": "00505691-115B-1EE5-98EF-D8AB48B4AA78",
-		"IsReviewOfCurrentUser": false,
-		"ProductId": "HT-1002",
-		"Rating": 1,
-		"UserDisplayName": "Miguel Luengo"
-	},
-	{
-		"ChangedAt": "/Date(1428876000000)/",
-		"Comment": "Te mollis equidem liberavisse ius, in ius iudico eirmod option. Atqui errem clita eu ius. Tantas dictas id mei, ad pro commodo urbanitas. No consulatu theophrastus pri. Id eleifend evertitur vulputate duo, ex labores salutandi his.",
-		"HelpfulCount": 19,
-		"HelpfulForCurrentUser": false,
-		"Id": "00505691-115B-1EE5-98EF-D8AB48B4CA78",
-		"IsReviewOfCurrentUser": false,
-		"ProductId": "HT-1002",
-		"Rating": 5,
-		"UserDisplayName": "Isabel Nemours"
-	},
-	{
-		"ChangedAt": "/Date(1430172000000)/",
-		"Comment": "Natum solet et. Te mollis equidem liberavisse ius, in ius iudico eirmod option. Atqui errem clita eu ius. Tantas dictas id mei, ad pro commodo urbanitas. No consulatu theophrastus pri. Id eleifend evertitur vulputate duo, ex labores salutandi his. Nulla elitr oratio ut usu, qui interesset necessitatibus ut. Sea cu deleniti indoctum persecuti, agam eligendi sit ei. An vis civibus offendit incorrupte, mel ne dicam corrumpit. An qui prompta aliquid. Sea ut dolores invidun.",
-		"HelpfulCount": 43,
-		"HelpfulForCurrentUser": false,
-		"Id": "00505691-115B-1EE5-98EF-D8AB48B4EA78",
-		"IsReviewOfCurrentUser": false,
-		"ProductId": "HT-1002",
-		"Rating": 1,
-		"UserDisplayName": "Igor Tarassow"
-	},
-	{
-		"ChangedAt": "/Date(1431468000000)/",
-		"Comment": "Te mollis equidem liberaviss.",
-		"HelpfulCount": 25,
-		"HelpfulForCurrentUser": false,
-		"Id": "00505691-115B-1EE5-98EF-D8AB48B50A78",
-		"IsReviewOfCurrentUser": false,
-		"ProductId": "HT-1002",
-		"Rating": 1,
-		"UserDisplayName": "Alexis Harper"
-	},
-	{
-		"ChangedAt": "/Date(1432764000000)/",
-		"Comment": "Tempor dicunt rationibus et quo. Nam no essent aliquid, ne animal abhorreant eloquentiam eam, vis natum solet et. Te mollis equidem liberavisse ius, in ius iudico eirmod option. Atqui errem clita eu ius. Tantas dictas i.",
-		"HelpfulCount": 34,
-		"HelpfulForCurrentUser": false,
-		"Id": "00505691-115B-1EE5-98EF-D8AB48B52A78",
-		"IsReviewOfCurrentUser": false,
-		"ProductId": "HT-1002",
-		"Rating": 2,
-		"UserDisplayName": "Cristal Alfaro"
-	},
-	{
-		"ChangedAt": "/Date(1434060000000)/",
-		"Comment": "Mollis equidem liberavisse ius, in ius iudico eirmod option. Atqui errem clita eu ius. Tantas dictas id mei, ad pro commodo urbanitas. No consulatu theophrastus pri. Id eleifend evertitur vulputate duo, ex labores salutandi his. Nulla elitr oratio ut usu, qui interesset necessitatibus ut. Sea cu deleniti indoctum persecuti, agam eligendi sit ei. An vis civibus offendit incorrupte, mel ne dicam corrumpit. An qui prompta aliquid. Sea ut dolores invidunt deserunt. At eruditi persecut.",
-		"HelpfulCount": 33,
-		"HelpfulForCurrentUser": false,
-		"Id": "00505691-115B-1EE5-98EF-D8AB48B54A78",
-		"IsReviewOfCurrentUser": false,
-		"ProductId": "HT-1002",
-		"Rating": 4,
-		"UserDisplayName": "Sven Janssen"
-	},
-	{
-		"ChangedAt": "/Date(1435356000000)/",
-		"Comment": "Natum solet et. T.",
-		"HelpfulCount": 21,
-		"HelpfulForCurrentUser": false,
-		"Id": "00505691-115B-1EE5-98EF-D8AB48B56A78",
-		"IsReviewOfCurrentUser": false,
-		"ProductId": "HT-1002",
-		"Rating": 4,
-		"UserDisplayName": "Yoshiko Kakuji"
+		"UserDisplayName": "İlker"
 	},
 	{
 		"ChangedAt": "/Date(1436133600000)/",
