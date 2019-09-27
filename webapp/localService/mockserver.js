@@ -7,7 +7,7 @@ sap.ui.define([
 		_sAppModulePath = "nw/epm/refapps/shop/",
 		_sJsonFilesModulePath = _sAppModulePath + "localService/mockdata";
 		
-		// var tuna = '5';
+		// var tuna = '5'; 
 
 	return {
 
