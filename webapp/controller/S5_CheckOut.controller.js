@@ -61,7 +61,7 @@ sap.ui.define([
 				closeOnBrowserNavigation: false
 			});
 			this._refreshBinding();
-			this.getRouter().navTo("ProductList", {}, false);
+			this.getRouter().navTo("ShoppingCart", {}, false);
 		}
 	});
 });
