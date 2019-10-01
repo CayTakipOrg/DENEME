@@ -21,7 +21,23 @@
 					console.log("Request error: No unit test/opa tests available")};
 					
 				request.send();
+				
 			</script>
+			
+			<script
+	             	id="sap-ui-bootstrap"
+	             	src="https://openui5.hana.ondemand.com/resources/sap-ui-core.js"
+	             	data-sap-ui-theme="sap_belize"
+	             	data-sap-ui-libs="sap.m"
+	             	data-sap-ui-compatVersion="edge"
+	             	data-sap-ui-async="true"
+	             	data-sap-ui-onInit="module:sap/ui/demo/sample.Shop/webapp/controler/index"
+	             	data-sap-ui-resourceroots='{
+	             		"sap.ui.demo.walkthrough": "./"
+	             	}'>
+             
+    		</script>
+    		
 		<!--  try to load the basic UI5 styles -->
 		<link rel="stylesheet" type="text/css" href="resources/sap/ui/core/themes/sap_bluecrystal/library.css">
 	</head>
@@ -34,5 +50,6 @@
 			<li><a href="test/flpSandboxMockServer.html#EPMProduct-shop">test/flpSandboxMockServer.html</a> - start the app in the SAP Fiori launchpad sandbox (with local mock data)</li>
 			<div id="integrationTests"></div>
 		</ul>
+		<div>Hello World</div>
 	</body>
 </html>
