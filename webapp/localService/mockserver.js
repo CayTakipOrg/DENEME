@@ -6,6 +6,8 @@ sap.ui.define([
 	var oMockServer,
 		_sAppModulePath = "nw/epm/refapps/shop/",
 		_sJsonFilesModulePath = _sAppModulePath + "localService/mockdata";
+		
+		// var tuna = '5'; 
 
 	return {
 
