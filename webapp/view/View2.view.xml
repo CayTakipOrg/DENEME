@@ -1,0 +1,29 @@
+<mvc:View xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="QuickStartApplication.controller.View2">
+	<App id="idAppControl">
+		<pages><Page title="Personel Satıcı Borç Alacak Takibi Ekranı">
+				<content>
+					<VBox direction="Row" id="vbox0" width="100%">
+					    <items>
+					        <Text xmlns="sap.m" text="Mali Yıl:" id="text0"/>
+					    </items>
+					</VBox>
+					<RadioButtonGroup xmlns="sap.m" columns="1" id="group1">
+					    <buttons>
+					        <RadioButton text="1 Aylık" id="button2" busyIndicatorSize="Small"/>
+					        <RadioButton text="3 Aylık" id="button3" busyIndicatorSize="Small"/>
+					        </buttons>
+					</RadioButtonGroup>
+						<Breadcrumbs/>
+					<Breadcrumbs/><Text xmlns="sap.m" text="İş Alanı" id="text1"/><SearchField xmlns="sap.m" placeholder="Arama Yardımı ..." id="field0" busyIndicatorSize="Small" width="20%"/>
+						<Breadcrumbs/>
+				    <Text xmlns="sap.m" text="Kayıt Tarihi" id="text2"/>	<Breadcrumbs/>
+					<DatePicker xmlns="sap.m" id="picker0" width="60%"/>
+						<Breadcrumbs/>
+				    <Text xmlns="sap.m" text="Belge Tarihi" id="text3"/>	<Breadcrumbs/>
+					<DatePicker xmlns="sap.m" id="picker1" width="60%"/><Breadcrumbs/>
+					<Text xmlns="sap.m" text="Belge Numarası" id="text4"/><SearchField xmlns="sap.m" placeholder="Arama Yardımı ..." id="field1" busyIndicatorSize="Small" width="20%"/>
+			    </content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>

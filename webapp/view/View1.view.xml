@@ -1,0 +1,19 @@
+<mvc:View xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+	controllerName="QuickStartApplication.controller.View1">
+	<App id="idAppControl">
+		<pages>
+			<Page title="Personel Satıcı Borç Alacak Takibi Ekranı">
+				<content>
+					<VBox direction="Row" id="vbox0" width="100%"></VBox>
+					<SearchField xmlns="sap.m" placeholder="Arama Yardımı ..." id="field0" busyIndicatorSize="Small" width="40%"/>
+					<Input xmlns="sap.m" value="Personel Numarası" id="input0" width="40%"/>
+					<Breadcrumbs/>
+					<Input xmlns="sap.m" value="Şifre" id="input1" width="40%"/>
+					<Breadcrumbs/>
+					<Button text="Giriş" press="onPress()"/>
+					<Breadcrumbs/>
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>
